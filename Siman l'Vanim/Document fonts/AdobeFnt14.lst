@@ -1,0 +1,437 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Italic
+FamilyName:Adobe Caslon Pro
+StyleName:Italic
+FullName:Adobe Caslon Pro Italic
+MenuName:Adobe Caslon Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\ACaslonPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:169976
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+FullName:Adobe Caslon Pro
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:167536
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Semibold
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold
+FullName:Adobe Caslon Pro Semibold
+MenuName:Adobe Caslon Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\ACaslonPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:170816
+FileModTime:1327615860
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-SemiboldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold Italic
+FullName:Adobe Caslon Pro Semibold Italic
+MenuName:Adobe Caslon Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\ACaslonPro-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:172312
+FileModTime:1327615860
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeHebrew-Regular
+FamilyName:Adobe Hebrew
+StyleName:Regular
+FullName:Adobe Hebrew Regular
+MenuName:Adobe Hebrew
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\AdobeHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:73492
+FileModTime:1329328336
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Regular
+FamilyName:Adobe Garamond Pro
+StyleName:Regular
+FullName:Adobe Garamond Pro
+MenuName:Adobe Garamond Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\AGaramondPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:126904
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSerifBold
+FamilyName:FreeSerif
+StyleName:Bold
+FullName:Free Serif Bold
+MenuName:FreeSerif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\FreeSerifBold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:619224
+FileModTime:1284902599
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSerifItalic
+FamilyName:FreeSerif
+StyleName:Italic
+FullName:Free Serif Italic
+MenuName:FreeSerif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\FreeSerifItalic_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:818584
+FileModTime:1284669418
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSerif
+FamilyName:FreeSerif
+StyleName:Medium
+FullName:Free Serif
+MenuName:FreeSerif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\FreeSerif_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:2184720
+FileModTime:1284902283
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HadasimCLM-Regular
+FamilyName:Hadasim CLM
+StyleName:Regular
+FullName:Hadasim CLM Regular
+MenuName:Hadasim CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\HadasimCLM-Regular_2.ttf
+DataFormat:sfntData
+FileLength:36768
+FileModTime:1493836142
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMinPro-Regular
+FamilyName:Kozuka Mincho Pro
+StyleName:R
+FullName:Kozuka Mincho Pro R
+MenuName:Kozuka Mincho Pro R
+StyleBits:0
+FamilyNameNative:小塚明朝 Pro
+StyleNameNative:R
+FullNameNative:小塚明朝 Pro R
+WritingScript:Japanese
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\KozMinPro-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:4251140
+FileModTime:1332955114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LinuxBiolinumG
+FamilyName:Linux Biolinum G
+StyleName:Regular
+FullName:Linux Biolinum G Regular
+MenuName:Linux Biolinum G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\LinBiolinum_R_G.ttf
+DataFormat:sfntData
+FileLength:1937644
+FileModTime:1614317778
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Medium
+FamilyName:Minion Pro
+StyleName:Medium
+FullName:Minion Pro Medium
+MenuName:Minion Pro Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\MinionPro-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218152
+FileModTime:1327615968
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329328426
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ShofarRegular
+FamilyName:Shofar
+StyleName:Regular
+FullName:Shofar Regular
+MenuName:Shofar
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\ShofarRegular_1.ttf
+DataFormat:sfntData
+FileLength:80464
+FileModTime:1516373522
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:StamAshkenazCLM
+FamilyName:Stam Ashkenaz CLM
+StyleName:Medium
+FullName:Stam Ashkenaz CLM
+MenuName:Stam Ashkenaz CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\StamAshkenazCLM_2.ttf
+DataFormat:sfntData
+FileLength:14968
+FileModTime:1493836142
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:StamSefaradCLM
+FamilyName:Stam Sefarad CLM
+StyleName:Medium
+FullName:Stam Sefarad CLM
+MenuName:Stam Sefarad CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\StamSefaradCLM_2.ttf
+DataFormat:sfntData
+FileLength:15728
+FileModTime:1493836142
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Symbola
+FamilyName:Symbola
+StyleName:Regular
+FullName:Symbola
+MenuName:Symbola
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\Symbola.ttf
+DataFormat:sfntData
+FileLength:2093324
+FileModTime:1365524898
+WeightClass:400
+WidthClass:4
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TaameyFrankCLM-Medium
+FamilyName:Taamey Frank CLM
+StyleName:Medium
+FullName:Taamey Frank CLM Medium
+MenuName:Taamey Frank CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\TaameyFrankCLM_0.ttf
+DataFormat:sfntData
+FileLength:104984
+FileModTime:1283452534
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Honi\Siman l'Vanim\Document fonts\times.ttf
+DataFormat:sfntData
+FileLength:1195688
+FileModTime:1575713307
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

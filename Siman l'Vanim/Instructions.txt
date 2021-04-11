@@ -1,0 +1,122 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: honibirkon.indd
+
+PACKAGE DATE: 4/11/2021 6:09 PM
+Creation Date: 4/11/2021
+Modification Date: 4/11/2021
+
+CONTACT INFORMATION
+
+Company Name: Dimus Parrhesia Press
+Contact: Aharon Varady
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: aharon@parrhesia.press
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page2, 3, 4, 6, 9, 10, 11, 13, 14, 15, 16, 20, 21, 23, 24, 32, 33, 36, 37, 38, 40, 41, 42, 43, 47, 48, 49, 52, 53, 55, 57, 67, 69, 129
+
+FONTS
+20 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Not Packaged
+- Name: KozMinPro-Regular; Type: OpenType CID, Status: OK
+Fonts Packaged
+- Name: ACaslonPro-Italic; Type: OpenType Type 1, Status: OK
+- Name: ACaslonPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: ACaslonPro-Semibold; Type: OpenType Type 1, Status: OK
+- Name: ACaslonPro-SemiboldItalic; Type: OpenType Type 1, Status: OK
+- Name: AGaramondPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: AdobeHebrew-Regular; Type: OpenType Type 1, Status: OK
+- Name: FreeSerif; Type: OpenType Type 1, Status: OK
+- Name: FreeSerifBold; Type: OpenType Type 1, Status: OK
+- Name: FreeSerifItalic; Type: OpenType Type 1, Status: OK
+- Name: HadasimCLM-Regular; Type: TrueType, Status: OK
+- Name: LinuxBiolinumG; Type: TrueType, Status: OK
+- Name: MinionPro-Medium; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: ShofarRegular; Type: TrueType, Status: OK
+- Name: StamAshkenazCLM; Type: TrueType, Status: OK
+- Name: StamSefaradCLM; Type: TrueType, Status: OK
+- Name: Symbola; Type: TrueType, Status: OK
+- Name: TaameyFrankCLM-Medium; Type: TrueType, Status: OK
+- Name: TimesNewRomanPSMT; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 71.565; Lines/Inch: 63.245
+- Name and Type: Process Magenta; Angle: 18.434; Lines/Inch: 63.245
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 66.666
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.710
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 21 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 12 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Adobe PDF, (Adobe PDF)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A5
+Paper Dimensions: 215.9 mm x 279.4 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. honibirkon.indd; type: Adobe InDesign publication; size: 0K
+2. KozMinPro-Regular.otf; type: Font file; size: 4151K
+3. ACaslonPro-Italic.otf; type: Font file; size: 165K
+4. ACaslonPro-Regular.otf; type: Font file; size: 163K
+5. ACaslonPro-Semibold.otf; type: Font file; size: 166K
+6. ACaslonPro-SemiboldItalic.otf; type: Font file; size: 168K
+7. AGaramondPro-Regular.otf; type: Font file; size: 123K
+8. AdobeHebrew-Regular.otf; type: Font file; size: 71K
+9. FreeSerif_0.otf; type: Font file; size: 2133K
+10. FreeSerifBold_0.otf; type: Font file; size: 604K
+11. FreeSerifItalic_0.otf; type: Font file; size: 799K
+12. HadasimCLM-Regular_2.ttf; type: Font file; size: 35K
+13. LinBiolinum_R_G.ttf; type: Font file; size: 1892K
+14. MinionPro-Medium.otf; type: Font file; size: 213K
+15. MinionPro-Regular.otf; type: Font file; size: 212K
+16. ShofarRegular_1.ttf; type: Font file; size: 78K
+17. StamAshkenazCLM_2.ttf; type: Font file; size: 14K
+18. StamSefaradCLM_2.ttf; type: Font file; size: 15K
+19. Symbola.ttf; type: Font file; size: 2044K
+20. TaameyFrankCLM_0.ttf; type: Font file; size: 102K
+21. times.ttf; type: Font file; size: 1167K
